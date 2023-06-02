@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.f06cb583.css",
-    "main.js": "/static/js/main.411aae00.js",
+    "main.css": "/static/css/main.6df0ce0d.css",
+    "main.js": "/static/js/main.35545af3.js",
     "static/js/787.3d1331d4.chunk.js": "/static/js/787.3d1331d4.chunk.js",
     "static/media/logo (2).png": "/static/media/logo (2).614c1da7ea147fd05c48.png",
     "static/media/iStock-1390616703.png": "/static/media/iStock-1390616703.3a0dcdbcd72d22ff649c.png",
     "static/media/AKVAvent_LOGO_R_-01.png": "/static/media/AKVAvent_LOGO_R_-01.af31f390fcc5887f94e6.png",
     "static/media/collage.png": "/static/media/collage.d7c617c9bf619aaa5576.png",
     "index.html": "/index.html",
-    "main.f06cb583.css.map": "/static/css/main.f06cb583.css.map",
-    "main.411aae00.js.map": "/static/js/main.411aae00.js.map",
+    "static/media/iconmonstr-arrow-11.svg": "/static/media/iconmonstr-arrow-11.cb21533bcfaefcfadb75e4151e355751.svg",
+    "main.6df0ce0d.css.map": "/static/css/main.6df0ce0d.css.map",
+    "main.35545af3.js.map": "/static/js/main.35545af3.js.map",
     "787.3d1331d4.chunk.js.map": "/static/js/787.3d1331d4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f06cb583.css",
-    "static/js/main.411aae00.js"
+    "static/css/main.6df0ce0d.css",
+    "static/js/main.35545af3.js"
   ]
 }
