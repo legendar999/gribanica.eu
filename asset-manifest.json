@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.194adb2a.css",
-    "main.js": "/static/js/main.fe305e92.js",
+    "main.css": "/static/css/main.b89d00a6.css",
+    "main.js": "/static/js/main.c038d955.js",
     "static/js/787.3d1331d4.chunk.js": "/static/js/787.3d1331d4.chunk.js",
     "static/media/logo (2).png": "/static/media/logo (2).614c1da7ea147fd05c48.png",
-    "static/media/iStock-1390616703.png": "/static/media/iStock-1390616703.3a0dcdbcd72d22ff649c.png",
+    "static/media/gribanica.png": "/static/media/gribanica.3a0dcdbcd72d22ff649c.png",
     "static/media/AKVAvent_LOGO_R_-01.png": "/static/media/AKVAvent_LOGO_R_-01.af31f390fcc5887f94e6.png",
     "static/media/spotify.png": "/static/media/spotify.2535b654432909e08dd1.png",
     "static/media/collage.png": "/static/media/collage.d7c617c9bf619aaa5576.png",
     "static/media/instagram (1).png": "/static/media/instagram (1).bc603acad2a8cb3bd098.png",
+    "static/media/stealer.svg": "/static/media/stealer.026ab8ce412637907385eb2e6f13cc0d.svg",
     "static/media/Screenshot_1.png": "/static/media/Screenshot_1.2696fe5f551314901009.png",
     "static/media/github.png": "/static/media/github.05f6c17b8cd04c28456f.png",
     "index.html": "/index.html",
     "static/media/iconmonstr-arrow-11.svg": "/static/media/iconmonstr-arrow-11.cb21533bcfaefcfadb75e4151e355751.svg",
-    "main.194adb2a.css.map": "/static/css/main.194adb2a.css.map",
-    "main.fe305e92.js.map": "/static/js/main.fe305e92.js.map",
+    "main.b89d00a6.css.map": "/static/css/main.b89d00a6.css.map",
+    "main.c038d955.js.map": "/static/js/main.c038d955.js.map",
     "787.3d1331d4.chunk.js.map": "/static/js/787.3d1331d4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.194adb2a.css",
-    "static/js/main.fe305e92.js"
+    "static/css/main.b89d00a6.css",
+    "static/js/main.c038d955.js"
   ]
 }
