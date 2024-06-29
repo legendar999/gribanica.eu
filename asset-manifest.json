@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.15dc8139.css",
-    "main.js": "/static/js/main.f7839eba.js",
+    "main.css": "/static/css/main.d9a6b976.css",
+    "main.js": "/static/js/main.31c14f87.js",
+    "static/js/453.433adbff.chunk.js": "/static/js/453.433adbff.chunk.js",
     "static/media/logo (2).png": "/static/media/logo (2).614c1da7ea147fd05c48.png",
     "static/media/gribanica.png": "/static/media/gribanica.3a0dcdbcd72d22ff649c.png",
     "static/media/design-stealer.webp": "/static/media/design-stealer.5a072fa8258a496128b7.webp",
@@ -12,11 +13,12 @@
     "static/media/github.png": "/static/media/github.05f6c17b8cd04c28456f.png",
     "index.html": "/index.html",
     "static/media/iconmonstr-arrow-11.svg": "/static/media/iconmonstr-arrow-11.cb21533bcfaefcfadb75e4151e355751.svg",
-    "main.15dc8139.css.map": "/static/css/main.15dc8139.css.map",
-    "main.f7839eba.js.map": "/static/js/main.f7839eba.js.map"
+    "main.d9a6b976.css.map": "/static/css/main.d9a6b976.css.map",
+    "main.31c14f87.js.map": "/static/js/main.31c14f87.js.map",
+    "453.433adbff.chunk.js.map": "/static/js/453.433adbff.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.15dc8139.css",
-    "static/js/main.f7839eba.js"
+    "static/css/main.d9a6b976.css",
+    "static/js/main.31c14f87.js"
   ]
 }
